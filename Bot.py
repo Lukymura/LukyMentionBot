@@ -48,7 +48,7 @@ async def start(event):
                 Button.url("ᴄʜᴀɴɴᴇʟ︎︎", "https://t.me/AsadSupport"),
             ],
             [
-                Button.url("ᴀʏᴀɴɢ︎︎️️", "https://t.me/Ayyaaaxn),
+                Button.url("ᴀʏᴀɴɢ︎︎️️", "https://t.me/Ayyaaaxn"),
                 Button.url("ʟᴜᴋʏ ɢᴀɴᴛᴇɴɢ", "https://t.me/KyMuraa"),
             ],
         ),
