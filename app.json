@@ -1,0 +1,17 @@
+{
+    "name": "Luky Bukan Sagapung",
+    "description": "Luky Bukan Sagapung Is Telegram Advanced Bot To Mention All Members In Group.",
+    "logo": "https://telegra.ph/file/fee19afb12da12d389fc3.jpg",
+    "env": {
+        "TOKEN": {
+            "description": "Enter bot token."
+        },
+        "APP_ID": {
+            "description": "Get this value from my.telegram.org! Please do not steal."
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org! Please do not steal."
+        }
+    },
+    "buildpacks": [{"url": "heroku/python"}]
+}
